@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moarrecipes",
+  "name": "MoarRecipes",
+  "description": "Adds Saddle, Horse Armor, Name Tag, recipes back into the game.",
+  "version": "1.0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["flapflops"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
